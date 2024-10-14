@@ -19,4 +19,4 @@ Here are some of the technologies and tools i work with
 - **Languages**:Java,Python
 
 # Get in Touch
-Linked in :https://www.linkedin.com/in/karthika-mp-a26a72250/
+Linked in : https://www.linkedin.com/in/karthika-m-p-a26a72250
